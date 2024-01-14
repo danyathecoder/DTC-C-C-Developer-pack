@@ -1,0 +1,26 @@
+{
+  "name": "dtc-c-cpp-pack",
+  "displayName": "DTC C/C++ Developer pack",
+  "publisher": "danyathecoder",
+  "description": "This pack contains extensions to improve developers' experience with C/C++.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danyathecoder/DTC-C-CPP-Developer-pack.git"
+  },
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "ms-vscode.cmake-tools",
+    "ms-vscode.cpptools",
+    "ms-vscode.cpptools-extension-pack",
+    "ms-vscode.cpptools-themes",
+    "ms-vscode.makefile-tools",
+    "twxs.cmake"
+  ]
+}
